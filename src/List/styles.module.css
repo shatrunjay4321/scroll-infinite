@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: 100%;
+    margin-top: 10vh;
+  }
+  
+  .content {
+    background-color: #f1f0fa;
+    text-align: center;
+    padding: 5px 1px;
+    width: 100%;
+    border: solid 1px #dedff8;
+  }
